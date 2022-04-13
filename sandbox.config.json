@@ -1,0 +1,10 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": true,
+  "template": "node",
+  "container": {
+    "startScript": "keystone dev",
+    "node": "14"
+  },
+  "view": "browser"
+}
